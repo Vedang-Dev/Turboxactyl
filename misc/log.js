@@ -25,7 +25,7 @@ module.exports = (action, message) => {
                         name: 'Logging'
                     },
                     thumbnail: {
-                        url: 'https://cdn.discordapp.com/attachments/881207010417315861/949595064554913812/Copy_of_H_35.png'
+                        url: 'https://media.discordapp.net/attachments/959092612055310409/969543341236715520/unknown.png'
                     }
                 }
             ]
