@@ -78,7 +78,7 @@
         "/admin/coins"
     ],
     "variables": {
-        "faviconlink": "https://media.discordapp.net/attachments/959092612055310409/969543341236715520/unknown.png",
+        "faviconlink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvEVa4K4XF-knLWkgshBmNb52dM10cAbYeQ&usqp=CAU",
         "home": {
             "name": "Turboxactyl",
             "icon": "T",
