@@ -1,7 +1,7 @@
 //
 // Turboxactyl 12, Codename Noorvik
 // 
-//  * Copyright Sryden UK 2022
+//  * Copyright Malgos dev 2022
 //  * Please read the "License" file
 //
 
@@ -119,7 +119,7 @@ app.use(express.json({
 
 const listener = app.listen(settings.website.port, function() {
   console.log(chalk.green("――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――"));
-  console.log(chalk.green("Turboxactyl V1 is now online at port " + listener.address().port + " "));
+  console.log(chalk.green("Turboxactyl Cp is now online at port " + listener.address().port + " "));
   console.log(chalk.green("――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――"));
 });
 
