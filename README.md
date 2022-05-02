@@ -9,4 +9,4 @@
 **Head Over To:
 https://clientpanel.turbox.ml**
 
-<img src="https://media.discordapp.net/attachments/969663902080204860/970580893699829820/unknown.png?width=1021&height=473"  width="500" height="600">
+<img src="https://media.discordapp.net/attachments/969663902080204860/970580893699829820/unknown.png?width=1021&height=473">
